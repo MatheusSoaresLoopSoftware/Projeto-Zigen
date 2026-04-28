@@ -33,10 +33,9 @@
     --fw-bold: 800;
 
     --fs-sm: 0.875rem;
-    --fs-bse: 1rem;
+    --fs-base: 1rem;
     --fs-lg: 1.25rem;
     --fs-xl: 1.5rem;
-    --fs-2xl: 2.5rem;
 
     /*Padding System*/
     --py-base: 1rem;
